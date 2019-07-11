@@ -1,0 +1,42 @@
+
+h2{
+	text-align:center;
+	color:blue;
+}
+
+label{
+	display:inline-block;
+	width:110px;
+}
+
+section{
+	margin: 0 auto;
+	width: 300px;
+	box-shadow: 20px 35px 15px green;
+	padding:20px;
+	background-color: goldenrod;
+}
+
+section h1{
+	text-align:center;	
+}
+
+.center{
+	text-align:center;
+}
+
+button {
+  display: inline-block;
+  color: white;
+  font-weight: 700;
+  text-decoration: none;  
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+  background-color:black;
+} 
+
+button:hover { background: #8a8a8a; }
+
